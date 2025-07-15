@@ -246,9 +246,7 @@ function display_custom_meta_box($post) {
     echo '<input type="text" id="custom_data" name="custom_data" value="' . esc_attr($custom_value) . '" />';
 }
 
-
-
-
+echo "inderjeet kaur";
 
 
 
