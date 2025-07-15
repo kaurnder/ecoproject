@@ -20,7 +20,8 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'mytable' );
+
+define( 'DB_NAME', 'inderwp' );
 
 /** Database username */
 define( 'DB_USER', 'localhost' );
@@ -29,6 +30,7 @@ define( 'DB_USER', 'localhost' );
 define( 'DB_PASSWORD', '123456' );
 
 /** Database hostname */
+define( 'DB_HOST', 'localhost');
 define( 'DB_HOST', 'localhost');
 
 /** Database charset to use in creating database tables. */
