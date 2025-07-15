@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'nkg' );
 
 /** Database username */
-define( 'DB_USER', 'localhost' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
 define( 'DB_PASSWORD', '123456' );
