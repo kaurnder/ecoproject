@@ -20,7 +20,11 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+<<<<<<< HEAD
 define( 'DB_NAME', 'table' );
+=======
+define( 'DB_NAME', 'dattarhwp' );
+>>>>>>> b0d213a59131767bd73b72d2ba9e406826643feb
 
 /** Database username */
 define( 'DB_USER', 'localhost' );
