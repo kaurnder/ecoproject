@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'inderwp' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'localhost' );
 
 /** Database password */
 define( 'DB_PASSWORD', '123456' );
