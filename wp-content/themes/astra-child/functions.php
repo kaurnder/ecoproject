@@ -250,9 +250,6 @@ echo "jhfjrg";
 echo "HAVE A NICE DAY";
 echo "HAVE A GREAT DAY";
 echo "GOOD";
-
-
-
 echo"hlo";
 echo "new chnages";
 
