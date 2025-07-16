@@ -248,6 +248,7 @@ function display_custom_meta_box($post) {
 
 
 echo "HAVE A NICE DAY";
+echo "HAVE A GREAT DAY";
 
 
 
