@@ -247,9 +247,17 @@ function display_custom_meta_box($post) {
 }
 
 function display_custom_meta_boxx($post) {
-    $custom_value = get_post_meta($post->ID, '_custom_key', true); // Fetch existing data
+    $custom_value = get_post_meta($post->ID, '_custom_key', true); 
     echo '<label for="custom_data">Enter Custom Data:</label>';
     echo '<input type="text" id="custom_data" name="custom_data" value="' . esc_attr($custom_value) . '" />';
 }
+
+function fun(){
+    echo "This is a fun function";
+}
+
+
+
+
 
 
