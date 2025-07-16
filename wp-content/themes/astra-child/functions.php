@@ -245,11 +245,8 @@ function display_custom_meta_box($post) {
     echo '<label for="custom_data">Enter Custom Data:</label>';
     echo '<input type="text" id="custom_data" name="custom_data" value="' . esc_attr($custom_value) . '" />';
 }
-
-<<<<<<< HEAD
-
+echo "chg";
 
 
 
-=======
->>>>>>> 0c9b76d467018c1701d029d95b63f99be33bfdf7
+
