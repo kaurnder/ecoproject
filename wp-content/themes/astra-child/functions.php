@@ -247,12 +247,7 @@ function display_custom_meta_box($post) {
 }
 
 
-echo "Have a nice day";
-echo "inderjeet kaur ";
-echo "jhgjrt";
-echo "hlo njuy";
-echo "hggn";
-
+echo "HAVE A NICE DAY";
 
 
 
