@@ -247,7 +247,7 @@ function display_custom_meta_box($post) {
 }
 
 
-echo "HELLO WORLD";
+echo "Have a nice day";
 
 
 
