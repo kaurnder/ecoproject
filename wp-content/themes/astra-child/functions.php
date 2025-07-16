@@ -249,6 +249,8 @@ function display_custom_meta_box($post) {
 echo "filled";
 echo "HAVE A NICE DAY";
 echo "HAVE A GREAT DAY";
+echo "GOOD dAY";
+
 
 
 
