@@ -246,19 +246,3 @@ function display_custom_meta_box($post) {
     echo '<input type="text" id="custom_data" name="custom_data" value="' . esc_attr($custom_value) . '" />';
 }
 
-echo "jhfjrg";
-echo "HAVE A NICE DAY";
-echo "HAVE A GREAT DAY";
-echo "GOOD";
-echo"hlo";
-<<<<<<< HEAD
-echo "new chnages";
-
-
-
-echo "hfrjk";
-    
-
-=======
-echo "new chnages";
->>>>>>> 64161400b5b8ffb6db2e12f6d9b40fb1218766a9
