@@ -246,13 +246,14 @@ function display_custom_meta_box($post) {
     echo '<input type="text" id="custom_data" name="custom_data" value="' . esc_attr($custom_value) . '" />';
 }
 
-echo "filled";
+echo "jhfjrg";
 echo "HAVE A NICE DAY";
 echo "HAVE A GREAT DAY";
 echo "GOOD dAY";
 
 
 
+echo"hlo";
 
 
 
