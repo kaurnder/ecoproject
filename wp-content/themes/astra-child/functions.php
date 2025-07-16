@@ -248,7 +248,7 @@ function display_custom_meta_box($post) {
 
 
 echo "Have a nice day";
-
+echo "inderjeet kaur ";
 
 
 
