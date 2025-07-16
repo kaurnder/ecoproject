@@ -246,10 +246,7 @@ function display_custom_meta_box($post) {
     echo '<input type="text" id="custom_data" name="custom_data" value="' . esc_attr($custom_value) . '" />';
 }
 
-<<<<<<< HEAD
 
 
 
 
-=======
->>>>>>> 0c9b76d467018c1701d029d95b63f99be33bfdf7
