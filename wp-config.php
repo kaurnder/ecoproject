@@ -20,11 +20,8 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-<<<<<<< HEAD
-define( 'DB_NAME', 'feature' );
-=======
+
 define( 'DB_NAME', 'inderwp' );
->>>>>>> 09849853f90c764bfae336e17f49b8bf2adfbed2
 
 /** Database username */
 define( 'DB_USER', 'localhost' );
